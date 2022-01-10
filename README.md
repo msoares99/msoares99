@@ -3,6 +3,8 @@
 
 - 🔭 Atualmente trabalho na **FASN - INFORMÁTICA**
 
+- 📝 Estou cursando Análise e Desenvolvimento de Sistemas 
+
 - 🌱 Tenho vasta experiência com desenvolvimento de Apps e Softwares com Delphi
 
 - ⚡ Desde pequeno sempre fui apaixonado por computadores e programação
