@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Meu nome é Manassés Soares</h1>
 <h3 align="center">Sou desenvolvedor de Apps e Softwares</h3>
 
-- 🔭 Atualmente trabalho na **FASN - INFORMÁTICA**
+- 🔭 Atualmente trabalho na **Alterdata Software**
 
 - 📝 Estou cursando Análise e Desenvolvimento de Sistemas 
 
