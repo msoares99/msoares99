@@ -11,6 +11,8 @@
 
 - 📫 Entre em contato **assis2309@hotmail.com** / **(81) 99289-5360** 
 
+- <a href="https://devmanasses.com" target="_blank" rel="noreferrer">Blog sobre desenvolvimento de softwares</a>
+
 <p align="left">
 </p>
 
