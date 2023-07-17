@@ -7,7 +7,7 @@
 
 - 🌱 Tenho vasta experiência com desenvolvimento de Apps e Softwares com Delphi
 
-- ⚡ Desde pequeno sempre fui apaixonado por computadores e programação
+- ⚡ Desde pequeno sempre fui apaixonado por computadores, programação e tecnologia
 
 - 📫 Entre em contato **assis2309@hotmail.com** / **(81) 99289-5360** 
 
